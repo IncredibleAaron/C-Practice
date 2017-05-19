@@ -1,0 +1,8 @@
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe.config
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.exe
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.dll
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.exe
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb

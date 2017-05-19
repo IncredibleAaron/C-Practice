@@ -1,0 +1,5 @@
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

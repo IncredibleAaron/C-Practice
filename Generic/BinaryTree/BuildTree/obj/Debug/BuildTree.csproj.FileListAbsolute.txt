@@ -1,0 +1,8 @@
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BuildTree\bin\Debug\BuildTree.exe.config
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BuildTree\bin\Debug\BuildTree.exe
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BuildTree\bin\Debug\BuildTree.pdb
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BuildTree\bin\Debug\BinaryTree.dll
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BuildTree\bin\Debug\BinaryTree.pdb
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BuildTree\obj\Debug\BuildTree.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BuildTree\obj\Debug\BuildTree.exe
+c:\users\ali\documents\visual studio 2013\Projects\BinaryTree\BuildTree\obj\Debug\BuildTree.pdb
